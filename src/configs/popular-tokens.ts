@@ -1,0 +1,12 @@
+export const popularTokens: string[] = [
+    '0x1a51b19ce03dbe0cb44c1528e34a7edd7771e9af',
+    '0x0D1E753a25eBda689453309112904807625bEFBe',
+    '0x176211869ca2b568f2a7d4ee941e073a821ee1ff',
+    '0xa219439258ca9da29e9cc4ce5596924745e12b93',
+    '0x99ad925c1dc14ac7cc6ca1244eef8043c74e99d5',
+    '0x5b16228b94b68c7ce33af2acc5663ebde4dcfa2d',
+    '0x3aab2285ddcddad8edf438c1bab47e1a9d05a9b4',
+    '0x636b22bc471c955a8db60f28d4795066a8201fa3',
+    '0x4af15ec2a0bd43db75dd04e62faa3b8ef36b00d5',
+    '0x3b2f62d42db19b30588648bf1c184865d4c3b1d6',
+]
